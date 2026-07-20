@@ -1,0 +1,4 @@
+{
+  "installCommand": "yarn install --network-timeout 600000",
+  "buildCommand": "yarn build"
+}
